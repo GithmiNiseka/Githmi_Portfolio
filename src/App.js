@@ -10,7 +10,7 @@ import GrowMateCaseStudy from './Components/growMateCaseStudy.js';
 function App() {
   return (
     <div className="App">
-    <Router>
+    <Router basename="/Githmi_portfolio">
         
         <Routes>
         <Route path="/Githmi_portfolio" element={<Home />} />
