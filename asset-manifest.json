@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Githmi_portfolio/static/css/main.a9097679.css",
-    "main.js": "/Githmi_portfolio/static/js/main.fcc267b5.js",
+    "main.js": "/Githmi_portfolio/static/js/main.298c13f7.js",
     "static/media/LMSCaseStudy.png": "/Githmi_portfolio/static/media/LMSCaseStudy.9499ca2b263b0735b9da.png",
     "static/media/LexTrustCaseStudy.png": "/Githmi_portfolio/static/media/LexTrustCaseStudy.684ef88b6b44c9e6b3bd.png",
     "static/media/GrowMateCaseStudy.png": "/Githmi_portfolio/static/media/GrowMateCaseStudy.459f57a8c82c09c91748.png",
@@ -16,10 +16,10 @@
     "static/media/colour.png": "/Githmi_portfolio/static/media/colour.f9f6c002a8de2cb2f615.png",
     "index.html": "/Githmi_portfolio/index.html",
     "main.a9097679.css.map": "/Githmi_portfolio/static/css/main.a9097679.css.map",
-    "main.fcc267b5.js.map": "/Githmi_portfolio/static/js/main.fcc267b5.js.map"
+    "main.298c13f7.js.map": "/Githmi_portfolio/static/js/main.298c13f7.js.map"
   },
   "entrypoints": [
     "static/css/main.a9097679.css",
-    "static/js/main.fcc267b5.js"
+    "static/js/main.298c13f7.js"
   ]
 }
