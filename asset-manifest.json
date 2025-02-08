@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Githmi_portfolio/static/css/main.91b27be5.css",
-    "main.js": "/Githmi_portfolio/static/js/main.053b37a4.js",
+    "main.js": "/Githmi_portfolio/static/js/main.b7f5823b.js",
     "static/js/488.2c2c4401.chunk.js": "/Githmi_portfolio/static/js/488.2c2c4401.chunk.js",
     "static/media/MealMapCaseStudy.png": "/Githmi_portfolio/static/media/MealMapCaseStudy.e43e6bab2b73e66b8810.png",
     "static/media/LMSCaseStudy.png": "/Githmi_portfolio/static/media/LMSCaseStudy.9499ca2b263b0735b9da.png",
     "static/media/LexTrustCaseStudy.png": "/Githmi_portfolio/static/media/LexTrustCaseStudy.684ef88b6b44c9e6b3bd.png",
     "static/media/GrowMateCaseStudy.png": "/Githmi_portfolio/static/media/GrowMateCaseStudy.459f57a8c82c09c91748.png",
-    "static/media/MealMap.png": "/Githmi_portfolio/static/media/MealMap.e8f1f3751179a0e0c968.png",
+    "static/media/MealMap.png": "/Githmi_portfolio/static/media/MealMap.f9337cc105604ce8f34c.png",
     "static/media/LMS.png": "/Githmi_portfolio/static/media/LMS.c4d3cff43a01c573ecc1.png",
     "static/media/GrowMate.png": "/Githmi_portfolio/static/media/GrowMate.4d5871a6cf0ca64598b9.png",
     "static/media/profileImg.png": "/Githmi_portfolio/static/media/profileImg.334a6c2ddb259660ffd8.png",
@@ -19,11 +19,11 @@
     "static/media/colour.png": "/Githmi_portfolio/static/media/colour.f9f6c002a8de2cb2f615.png",
     "index.html": "/Githmi_portfolio/index.html",
     "main.91b27be5.css.map": "/Githmi_portfolio/static/css/main.91b27be5.css.map",
-    "main.053b37a4.js.map": "/Githmi_portfolio/static/js/main.053b37a4.js.map",
+    "main.b7f5823b.js.map": "/Githmi_portfolio/static/js/main.b7f5823b.js.map",
     "488.2c2c4401.chunk.js.map": "/Githmi_portfolio/static/js/488.2c2c4401.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.91b27be5.css",
-    "static/js/main.053b37a4.js"
+    "static/js/main.b7f5823b.js"
   ]
 }
